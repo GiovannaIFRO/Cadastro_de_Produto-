@@ -1,0 +1,11 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\bin\Debug\Cadastro.Produto-3B.exe.config
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\bin\Debug\Cadastro.Produto-3B.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\bin\Debug\Cadastro.Produto-3B.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\obj\Debug\Cadastro.Produto-3B.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\obj\Debug\Cadastro.Produto-3B.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\obj\Debug\Cadastro.Produto_3B.Form1.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\obj\Debug\Cadastro.Produto_3B.Properties.Resources.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\obj\Debug\Cadastro.Produto-3B.csproj.GenerateResource.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\obj\Debug\Cadastro.Produto-3B.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\obj\Debug\Cadastro.Produto-3B.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Cadastro.Produto-3B\Cadastro.Produto-3B\obj\Debug\Cadastro.Produto-3B.pdb
